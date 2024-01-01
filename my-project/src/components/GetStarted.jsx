@@ -1,6 +1,6 @@
 const GetStarted = () => {
   return (
-    <div>GetStarted</div>
+    <div className="text-white">GetStarted</div>
   )
 }
 
